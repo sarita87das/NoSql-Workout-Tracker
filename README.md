@@ -4,7 +4,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 # Prerequisites
 Utilizes MERN stack implementation which is based on Javascript/Node as fullstack web development and requires the latest version of MongoDB Express React and Node.
 
-Additional prerequisites:
+# Additional prerequisites:
 Port set up for MongoDB & Server
 
 # demo
