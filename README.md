@@ -7,5 +7,13 @@ Utilizes MERN stack implementation which is based on Javascript/Node as fullstac
 # Additional prerequisites:
 Port set up for MongoDB & Server
 
+# Tools / Technologies used :
+* MongoDB
+* Mongoose
+* HTML
+* CSS
+* Javascript
+* JSON
+
 # demo
 ![fitness tracker.gif](https://github.com/sarita87das/NoSql-Workout-Tracker/blob/master/fitness%20tracker%20gif.gif)
