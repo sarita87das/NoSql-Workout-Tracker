@@ -3,6 +3,12 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 # Landing Page
 ![Test Image](public/assets/images/landing%20page.png)
+
+# New Work Out
+![Test Image](public/assets/images/newworkout.png)
+
+# Last Work Out
+![Test Image](public/assets/images/LASTWORKOUT.png)
 # Prerequisites
 Utilizes MERN stack implementation which is based on Javascript/Node as fullstack web development and requires the latest version of MongoDB Express React and Node.
 
