@@ -25,3 +25,7 @@ Port set up for MongoDB & Server
 
 # demo
 ![fitness tracker.gif](https://github.com/sarita87das/NoSql-Workout-Tracker/blob/master/fitness%20tracker%20gif.gif)
+
+# Future Development
+* To set up a database which is easily accesible on one click rather then going on a long process.
+* The UI can be more appealing with images, icons or signs so that it can be found easily and quickly.
